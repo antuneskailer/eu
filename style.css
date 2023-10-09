@@ -1,0 +1,48 @@
+body {
+    backgroud: rgb(255, 0, 0);
+}
+
+h1 {
+    font-size: 34px;
+    color: darkred;
+    text-align: center
+}
+
+
+
+p {
+    font-family: Helvetica;
+    font-size: 24px;
+    color: rgb(151, 6, 79)
+    margin: 100px ;
+    text-align: center;
+}
+
+img {
+width: 70%;
+height: 70%;
+margin-left: 8cm;
+}
+
+
+.cabecalho{
+    background-color: hotpink;
+    display: flex;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 250px;
+}
+.item_lista_cabecalho{
+    color:deeppink
+    list-style: none;
+    text-transform uppercase;
+    font-size: 10px; 
+    padding: 5px;
+    text-align: center;
+}
+.logo{
+    width: 10%;
+
+
+}
